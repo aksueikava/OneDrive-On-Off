@@ -27,7 +27,7 @@ echo.
 %ch% {0b}    [2]{#} = Enable {0e}by default {\n #}
 echo.
 %ch% {0b}    [No input]{#} = Quit {\n #}
-%ch%                                                {08} ^| Версия 1.0 {\n #}
+%ch%                                                {08} ^| Version 1.0 {\n #}
 echo.
 set "input="
 set /p input=*   Your choice: 
